@@ -1,0 +1,778 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.2006; Version 2009; 64bit' Language: 'ja' Physical Memory: 16219 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/gaiya/Desktop/TeamProjectBoss
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51676
+Successfully changed project path to: C:/Users/gaiya/Desktop/TeamProjectBoss
+C:/Users/gaiya/Desktop/TeamProjectBoss
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 82.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/gaiya/Desktop/TeamProjectBoss/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1289
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005373 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.579 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 71.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 2.189800 ms (FindLiveObjects: 0.200900 ms CreateObjectMapping: 0.081200 ms MarkObjects: 1.767200 ms  DeleteObjects: 0.139100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/prefab/Monster.fbx
+  artifactKey: Guid(a3d42abe540e5e349913a6b95f55cd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Monster.fbx using Guid(a3d42abe540e5e349913a6b95f55cd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c89307c80288c8cce102ad58dbba066') in 0.495009 seconds
+  Import took 0.498510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.222897 seconds.
+  path: Assets/prefab/Defeated.fbx
+  artifactKey: Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Defeated.fbx using Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5adb30415e9972b5213c347ec7e9659') in 0.313409 seconds
+  Import took 0.323352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 281.868754 seconds.
+  path: Assets/prefab/Defeated.fbx
+  artifactKey: Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Defeated.fbx using Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2474ebe8d0bbace002b02cb888fbba') in 0.422023 seconds
+  Import took 0.434184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.294454 seconds.
+  path: Assets/prefab/oni_all_001.obj
+  artifactKey: Guid(6d0c6b652fe85d24a85c69a9abbab2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/oni_all_001.obj using Guid(6d0c6b652fe85d24a85c69a9abbab2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3707bfdc7e268aa3a5a7283af7820acf') in 0.779881 seconds
+  Import took 0.784986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 418.767840 seconds.
+  path: Assets/prefab/oni_all_001.obj
+  artifactKey: Guid(6d0c6b652fe85d24a85c69a9abbab2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/oni_all_001.obj using Guid(6d0c6b652fe85d24a85c69a9abbab2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4645888c9c2be9de2b9cb240f0df5f') in 0.656615 seconds
+  Import took 0.662371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.009817 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_jezor_Norma.png
+  artifactKey: Guid(5ffd5a51487cd58498b1467cf5f402ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_jezor_Norma.png using Guid(5ffd5a51487cd58498b1467cf5f402ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b3e6a9970d2dac19f1c3d03a8d155f') in 0.136627 seconds
+  Import took 0.143314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000716 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_kly_BaseCol.png
+  artifactKey: Guid(7526de4c42c8bde4dab315c1e7295567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_kly_BaseCol.png using Guid(7526de4c42c8bde4dab315c1e7295567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f866591860fba6834d3c5610d2c6ee') in 0.044223 seconds
+  Import took 0.052431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000870 seconds.
+  path: Assets/prefab/textures/Pm3d_ring3d2_5Mat.mat
+  artifactKey: Guid(6498ce922893f01489b8b8e373553149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_ring3d2_5Mat.mat using Guid(6498ce922893f01489b8b8e373553149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9d06bdad04ea5c4b3e1fc2649f1b11') in 0.061425 seconds
+  Import took 0.070251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001010 seconds.
+  path: Assets/prefab/textures/Pm3d_sphere3d2Mat.mat
+  artifactKey: Guid(216a38f4fc977474cbc1f242a87b01cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_sphere3d2Mat.mat using Guid(216a38f4fc977474cbc1f242a87b01cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd9baf404206cfcbdcc0c71f76b6315') in 0.048194 seconds
+  Import took 0.058155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000950 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_majty_Norma.png
+  artifactKey: Guid(b06e584e3465f7543b2275398bb4fc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_majty_Norma.png using Guid(b06e584e3465f7543b2275398bb4fc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcd7e08bd85eba79612ae58efba8d75') in 0.049815 seconds
+  Import took 0.063334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_kly_Normal.png
+  artifactKey: Guid(12b45905470d4644dbbb9169fcbe0f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_kly_Normal.png using Guid(12b45905470d4644dbbb9169fcbe0f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c4374ca23b1c6bb753a7c617d37bec') in 0.050386 seconds
+  Import took 0.059272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000802 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_zeby_Occlus.png
+  artifactKey: Guid(ccb8821ac052d0d40bfec12826bed419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_zeby_Occlus.png using Guid(ccb8821ac052d0d40bfec12826bed419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6311bfca8101efdf602fc419d49f38') in 0.051315 seconds
+  Import took 0.059960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pierscienie.png
+  artifactKey: Guid(e4638ac0333457a488220a9a7825c245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pierscienie.png using Guid(e4638ac0333457a488220a9a7825c245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232e16b685a69ecfc03cbd1de3d8b31c') in 0.049516 seconds
+  Import took 0.058598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000762 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_warkocz_Nor.png
+  artifactKey: Guid(057710d0228797642abb5fef38762105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_warkocz_Nor.png using Guid(057710d0228797642abb5fef38762105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677c6c00791c680676220429dbd0a9ae') in 0.050278 seconds
+  Import took 0.060816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_opaska_reka.png
+  artifactKey: Guid(9a83c4a0e19255b45b6808839c4682a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_opaska_reka.png using Guid(9a83c4a0e19255b45b6808839c4682a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664f12ae3862134c2e26e6d2f947ca1c') in 0.047867 seconds
+  Import took 0.056211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000703 seconds.
+  path: Assets/prefab/textures/Pm3d_cavetroll1_3_copy4Mat.mat
+  artifactKey: Guid(ae6af7ed8d10f2244927d75b24024342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cavetroll1_3_copy4Mat.mat using Guid(ae6af7ed8d10f2244927d75b24024342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ce45cb1eba95ad8a744b0e1b6926c0') in 0.047272 seconds
+  Import took 0.056724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000774 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_was_BaseCol.png
+  artifactKey: Guid(19596a448efaf544bacc095477d61a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_was_BaseCol.png using Guid(19596a448efaf544bacc095477d61a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba90fab583b302616fc823dadfb49fcb') in 0.046299 seconds
+  Import took 0.052947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/prefab/textures/PM3D_Sphere3D1Mat.mat
+  artifactKey: Guid(0d991ae9f5d5aef46a571d174e02eaea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Sphere3D1Mat.mat using Guid(0d991ae9f5d5aef46a571d174e02eaea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e77258383e4b9419ace6a7fd3645366') in 0.031195 seconds
+  Import took 0.037254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/prefab/textures/Pm3d_cavetroll1_3_copy1Mat.mat
+  artifactKey: Guid(fd3f12a624e240042b20ca1dc2cecb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cavetroll1_3_copy1Mat.mat using Guid(fd3f12a624e240042b20ca1dc2cecb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ceaa12ddec3f0aee924dc3cce50249') in 0.042083 seconds
+  Import took 0.049391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_kly_Occlusi.png
+  artifactKey: Guid(d66f8c5f4aeca81428411ec734d986f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_kly_Occlusi.png using Guid(d66f8c5f4aeca81428411ec734d986f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b2dfc3a14250716c99700c3cd3c60f') in 0.052265 seconds
+  Import took 0.062104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pas_Occlusi.png
+  artifactKey: Guid(ae32c9cb2123bfb45906cd0696c69b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pas_Occlusi.png using Guid(ae32c9cb2123bfb45906cd0696c69b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e9f87e3fa421cd6aa4588b8792d23f') in 0.033645 seconds
+  Import took 0.042643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_linki_BaseC.png
+  artifactKey: Guid(33c9d98fdc9d85244ba1cab97c7c929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_linki_BaseC.png using Guid(33c9d98fdc9d85244ba1cab97c7c929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b402cc0e95d317eb6c83365cd6805013') in 0.051359 seconds
+  Import took 0.059144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000918 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_sznur_Occlu.png
+  artifactKey: Guid(dd5dbd5b3b2013d40837838a7c566b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_sznur_Occlu.png using Guid(dd5dbd5b3b2013d40837838a7c566b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf2a56f96388520fcace2c72dbe6692') in 0.055110 seconds
+  Import took 0.063763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_zeby_BaseCo.png
+  artifactKey: Guid(5bd7152d3297e4c4cbd9394280446c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_zeby_BaseCo.png using Guid(5bd7152d3297e4c4cbd9394280446c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b76d96054230ef7be903eb470c75969') in 0.038064 seconds
+  Import took 0.046256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/prefab/textures/Pm3d_cylinder3d1_4Mat.mat
+  artifactKey: Guid(0ac9647299ed36f43a778746043a6d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cylinder3d1_4Mat.mat using Guid(0ac9647299ed36f43a778746043a6d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dbf650cf744a74b603915655778398d') in 0.039705 seconds
+  Import took 0.046503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000835 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pielucha_Ba.png
+  artifactKey: Guid(e96b6b9c8c2551f4e9169bbe8b4be1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pielucha_Ba.png using Guid(e96b6b9c8c2551f4e9169bbe8b4be1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5c464ebce1a29a30cc7eaf072903c6') in 0.051139 seconds
+  Import took 0.059879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pielucha_Oc.png
+  artifactKey: Guid(8aec446d85e492e4597432068b0a1b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pielucha_Oc.png using Guid(8aec446d85e492e4597432068b0a1b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316519aeba94c9728b37ae235dd93912') in 0.059128 seconds
+  Import took 0.067390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000716 seconds.
+  path: Assets/prefab/textures/PM3D_Sphere3D1_7Mat.mat
+  artifactKey: Guid(17750fbde7c50e14489b9ba6405c9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Sphere3D1_7Mat.mat using Guid(17750fbde7c50e14489b9ba6405c9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152078b4ff2dd117813782ff2a692533') in 0.056236 seconds
+  Import took 0.064661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000781 seconds.
+  path: Assets/prefab/textures/Pm3d_cylinder3d3Mat.mat
+  artifactKey: Guid(c30bca337663d0148be2a7e3fee94929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cylinder3d3Mat.mat using Guid(c30bca337663d0148be2a7e3fee94929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44f6d67181e6b7614d6bcb8e5140e56') in 0.056424 seconds
+  Import took 0.063592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_sznur_Norma.png
+  artifactKey: Guid(f557bce217916b242bd27b7886869867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_sznur_Norma.png using Guid(f557bce217916b242bd27b7886869867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7904fb1fcb3250bc3cc61d9457464cd2') in 0.025979 seconds
+  Import took 0.030758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pas_Normal.png
+  artifactKey: Guid(c7c7e0fe6c9e8e447a2c8f76f65875ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pas_Normal.png using Guid(c7c7e0fe6c9e8e447a2c8f76f65875ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358d24cef4629cbc6477e208d4dd59f1') in 0.036422 seconds
+  Import took 0.043191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_majty_BaseC.png
+  artifactKey: Guid(843ef23a9807aee43a448478f67a004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_majty_BaseC.png using Guid(843ef23a9807aee43a448478f67a004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f758b29684671738dc7d8bac47452642') in 0.026231 seconds
+  Import took 0.032101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/prefab/textures/PM3D_Ring3D1_2Mat.mat
+  artifactKey: Guid(847a6f78ef75b0a42a346e54896231bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Ring3D1_2Mat.mat using Guid(847a6f78ef75b0a42a346e54896231bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680f1c05bda341128953229c979f4254') in 0.026371 seconds
+  Import took 0.030660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_rogi_Occlus.png
+  artifactKey: Guid(7c4897fc8c111ba478639e1a6168ac0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_rogi_Occlus.png using Guid(7c4897fc8c111ba478639e1a6168ac0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bf59c8fdefdd0101f742d3d0396174') in 0.034337 seconds
+  Import took 0.041071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000951 seconds.
+  path: Assets/prefab/textures/Pm3d_sphere3d1_8Mat.mat
+  artifactKey: Guid(fd8fec94286ddea4aa2b993a46efcfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_sphere3d1_8Mat.mat using Guid(fd8fec94286ddea4aa2b993a46efcfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7cfd0c4cdce8b9c0af47cd35f2a0413') in 0.056017 seconds
+  Import took 0.063634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_warkocz_Bas.png
+  artifactKey: Guid(44538f3531a1ca84ea3b6538806d91eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_warkocz_Bas.png using Guid(44538f3531a1ca84ea3b6538806d91eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72360a9d73abc9041a75bfa8bbad409d') in 0.055565 seconds
+  Import took 0.066221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/prefab/textures/Pm3d_cone3d2_1Mat.mat
+  artifactKey: Guid(edf5863d1fb1af54bad6a52da70e6294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cone3d2_1Mat.mat using Guid(edf5863d1fb1af54bad6a52da70e6294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '945f770cda9a4ec6c2b57a9f1c6d9e84') in 0.057076 seconds
+  Import took 0.067370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_was_Normal.png
+  artifactKey: Guid(e90721928ec9cf646b9bc8d688f65823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_was_Normal.png using Guid(e90721928ec9cf646b9bc8d688f65823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb54c603c1d0c44082871c0177479fc5') in 0.054430 seconds
+  Import took 0.064591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000700 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_linki_Occlu.png
+  artifactKey: Guid(c3f14cd26d55c524e877aa971b39fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_linki_Occlu.png using Guid(c3f14cd26d55c524e877aa971b39fafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13773897ef6578ebbaa81eae91339594') in 0.048607 seconds
+  Import took 0.059177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000764 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_szczeki_Bas.png
+  artifactKey: Guid(f16955cd2189d9f48a540aa4b226f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_szczeki_Bas.png using Guid(f16955cd2189d9f48a540aa4b226f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee75f99d5db10ce191c063afba111897') in 0.051226 seconds
+  Import took 0.061594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001040 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pas_BaseCol.png
+  artifactKey: Guid(cd5d4403fd7a3034ab3499e4e0d83e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pas_BaseCol.png using Guid(cd5d4403fd7a3034ab3499e4e0d83e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e9fc4b3a80c51733f6849d544b78f0') in 0.046293 seconds
+  Import took 0.054413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_jezor_Occlu.png
+  artifactKey: Guid(7f8c09e3a5e9cd043b621b6d5d9c4ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_jezor_Occlu.png using Guid(7f8c09e3a5e9cd043b621b6d5d9c4ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73b62e1e937c402ef375d9e27ae3e54') in 0.043092 seconds
+  Import took 0.052493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_zeby_Normal.png
+  artifactKey: Guid(cf6e1573ad7d1ba42b8d2800b27adb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_zeby_Normal.png using Guid(cf6e1573ad7d1ba42b8d2800b27adb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7595ac0cb92affb1b3853706ed01ee8') in 0.054718 seconds
+  Import took 0.064050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000733 seconds.
+  path: Assets/prefab/textures/PM3D_Cube3D2_6Mat.mat
+  artifactKey: Guid(9a761fa400392344bb409c9c1731370a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Cube3D2_6Mat.mat using Guid(9a761fa400392344bb409c9c1731370a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc60d0649d09f88f50930940c7e2996') in 0.065976 seconds
+  Import took 0.076540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000735 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_oczka_BaseC.png
+  artifactKey: Guid(7581386b5bf0fff49b0782b970587c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_oczka_BaseC.png using Guid(7581386b5bf0fff49b0782b970587c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8c2265c390fefc69caf788d16f0880') in 0.053358 seconds
+  Import took 0.064286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000745 seconds.
+  path: Assets/prefab/textures/Pm3d_cube3d3Mat.mat
+  artifactKey: Guid(f666dabe655feb845b2e86ea0acae678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cube3d3Mat.mat using Guid(f666dabe655feb845b2e86ea0acae678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c23f094b13ce78eaf5f861b39ce1e87') in 0.052539 seconds
+  Import took 0.062706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000702 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_szczeki_Nor.png
+  artifactKey: Guid(159731f80842ae641b21f463807dca29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_szczeki_Nor.png using Guid(159731f80842ae641b21f463807dca29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8053a86cb135b196be7be8947604a063') in 0.041410 seconds
+  Import took 0.047894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_rogi_Normal.png
+  artifactKey: Guid(20fbd040f4241504c90b29a6c70bee87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_rogi_Normal.png using Guid(20fbd040f4241504c90b29a6c70bee87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b57e0795bbd6806c352de1a38dd3e731') in 0.038539 seconds
+  Import took 0.045149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000935 seconds.
+  path: Assets/prefab/textures/Pm3d_cylinder3d2_1Mat.mat
+  artifactKey: Guid(c224f3206d99b3c43a0d7eba29818488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cylinder3d2_1Mat.mat using Guid(c224f3206d99b3c43a0d7eba29818488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ac122406757e23dc7e90a47e5876e6') in 0.042116 seconds
+  Import took 0.049976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000722 seconds.
+  path: Assets/prefab/textures/PM3D_Ring3D1_6Mat.mat
+  artifactKey: Guid(3b5f50edc27d5ab45a3bb06645f3630d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Ring3D1_6Mat.mat using Guid(3b5f50edc27d5ab45a3bb06645f3630d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe8f48a5e26d751e360c0df8039976f') in 0.048616 seconds
+  Import took 0.059260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000858 seconds.
+  path: Assets/prefab/textures/PM3D_Ring3D2Mat.mat
+  artifactKey: Guid(1c11221e87ad81d459e845b796a67d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Ring3D2Mat.mat using Guid(1c11221e87ad81d459e845b796a67d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068f2ca52fb2fd007c02d19b195f7b4b') in 0.048329 seconds
+  Import took 0.057170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/prefab/textures/PM3D_Ring3D1_7Mat.mat
+  artifactKey: Guid(aa3f5ccdea58e9046ad9bcab54a39938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Ring3D1_7Mat.mat using Guid(aa3f5ccdea58e9046ad9bcab54a39938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c09fa2cc4025851f1fe595e6de081e0') in 0.048183 seconds
+  Import took 0.058229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000768 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_was_Occlusi.png
+  artifactKey: Guid(69091e8f183ea2a4da083e402a3b65e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_was_Occlusi.png using Guid(69091e8f183ea2a4da083e402a3b65e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6b67792aef7af8f4537d9a79caf8f8') in 0.050013 seconds
+  Import took 0.058022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000764 seconds.
+  path: Assets/prefab/textures/Pm3d_cavetroll1_3_copy3_1Mat.mat
+  artifactKey: Guid(f53eefda898cec74baeae477060c03f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cavetroll1_3_copy3_1Mat.mat using Guid(f53eefda898cec74baeae477060c03f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1139e0c696ad1bebe5dd8c2157d75cba') in 0.047824 seconds
+  Import took 0.056240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_rogi_BaseCo.png
+  artifactKey: Guid(951aa7830e8642f4e9fb6cf9558fd9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_rogi_BaseCo.png using Guid(951aa7830e8642f4e9fb6cf9558fd9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e09d7e3b4d4bf2f8aab465efbbd4fc7') in 0.051950 seconds
+  Import took 0.060032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001114 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_majty_Occlu.png
+  artifactKey: Guid(1d6df5eaac9f74e4bae6410918ada27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_majty_Occlu.png using Guid(1d6df5eaac9f74e4bae6410918ada27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16cbd6346adf1a9919c68a89dfc9490b') in 0.051322 seconds
+  Import took 0.057090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/prefab/textures/Pm3d_cylinder3d1_3Mat.mat
+  artifactKey: Guid(6397767cc04c5dc4e986c534313692e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_cylinder3d1_3Mat.mat using Guid(6397767cc04c5dc4e986c534313692e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ebd972eb189a89be78e4981afa030b') in 0.033846 seconds
+  Import took 0.038806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_szczeki_Occ.png
+  artifactKey: Guid(5eee63c9183998b47b3490de1d24f264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_szczeki_Occ.png using Guid(5eee63c9183998b47b3490de1d24f264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aff2f360cb11cd1d92bce1e2156f272') in 0.048474 seconds
+  Import took 0.057250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000675 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_sznur_BaseC.png
+  artifactKey: Guid(563a1914ea07a2f4faee723f23447c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_sznur_BaseC.png using Guid(563a1914ea07a2f4faee723f23447c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f453434b529231dca85d9f29d88a8b') in 0.047254 seconds
+  Import took 0.057264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000797 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_linki_Norma.png
+  artifactKey: Guid(e82c02c936f7cb64084f0ed33c989d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_linki_Norma.png using Guid(e82c02c936f7cb64084f0ed33c989d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae839511a8ba0e9df6d497be172cab5') in 0.034787 seconds
+  Import took 0.040916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pielucha_No.png
+  artifactKey: Guid(d6633e966024b5f419238a27851804ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_pielucha_No.png using Guid(d6633e966024b5f419238a27851804ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a09fabbf1612a2f8812e2a8dd628e2') in 0.028707 seconds
+  Import took 0.033405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/prefab/textures/Pm3d_sphere3d1_11Mat.mat
+  artifactKey: Guid(d809d62ec070ed541a96a5f7512899c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/Pm3d_sphere3d1_11Mat.mat using Guid(d809d62ec070ed541a96a5f7512899c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef539ab12ec080febf0fc9734576fff') in 0.027298 seconds
+  Import took 0.031287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_warkocz_Occ.png
+  artifactKey: Guid(16552c5e97e199a40b5d931bbde420d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_warkocz_Occ.png using Guid(16552c5e97e199a40b5d931bbde420d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6bb9e6d7828cfd4a0b400a46015568') in 0.031854 seconds
+  Import took 0.037399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000994 seconds.
+  path: Assets/prefab/textures/PM3D_Cone3D2Mat.mat
+  artifactKey: Guid(233dc3bb8db7b7e4586bf5502080ae3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/PM3D_Cone3D2Mat.mat using Guid(233dc3bb8db7b7e4586bf5502080ae3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed378222a1e0c08aeacbaa248229d8df') in 0.051601 seconds
+  Import took 0.061084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.765068 seconds.
+  path: Assets/prefab/textures/oni_body_lowpoly_oni_cialo_BaseColor.png
+  artifactKey: Guid(c674af372b83d354da094378be3f3e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_body_lowpoly_oni_cialo_BaseColor.png using Guid(c674af372b83d354da094378be3f3e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bc4a3c0328271d478447c9ec81d096') in 0.039762 seconds
+  Import took 0.043049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000561 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_broda_BaseC.png
+  artifactKey: Guid(72cc8224c28aa654a9a513594a9cc5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_broda_BaseC.png using Guid(72cc8224c28aa654a9a513594a9cc5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53fe629b716abbbcd353c9a19102809e') in 0.034203 seconds
+  Import took 0.039699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000724 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_gumki_Norma.png
+  artifactKey: Guid(bda59dfa5ab8da54d8c91016fc234975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_gumki_Norma.png using Guid(bda59dfa5ab8da54d8c91016fc234975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de5509ef370792aef3fe3e4f571a25f') in 0.039190 seconds
+  Import took 0.046279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_broda_Occlu.png
+  artifactKey: Guid(3a85852481ddfa34aa8f8f06f6599c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_broda_Occlu.png using Guid(3a85852481ddfa34aa8f8f06f6599c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5dc6c7b67903ee9c62f18f6f432a07') in 0.039938 seconds
+  Import took 0.046128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000946 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_czachy_Norm.png
+  artifactKey: Guid(b5bb62bf0cba482488cb0f53b8a2d100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_czachy_Norm.png using Guid(b5bb62bf0cba482488cb0f53b8a2d100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf654918581776bb32a42b4bd0345cb') in 0.053686 seconds
+  Import took 0.062279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000924 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_brwi_Normal.png
+  artifactKey: Guid(4217f030d83a2bc4589855954fe34c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_brwi_Normal.png using Guid(4217f030d83a2bc4589855954fe34c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74fd4cab6a973b2b6175414d2ffe24f9') in 0.059619 seconds
+  Import took 0.067797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001022 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_czachy_Occl.png
+  artifactKey: Guid(3b66795548b16fe4d837b6ded36b1989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_czachy_Occl.png using Guid(3b66795548b16fe4d837b6ded36b1989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eca912676d7f5dbdd3d9b03053f47c9d') in 0.050145 seconds
+  Import took 0.058147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000704 seconds.
+  path: Assets/prefab/textures/oni_body_lowpoly_oni_cialo_Normal.png
+  artifactKey: Guid(1b7a045f2c71e03478d2265bab439eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_body_lowpoly_oni_cialo_Normal.png using Guid(1b7a045f2c71e03478d2265bab439eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c8a4894c2d7ab5e36d91d7cc1ef8f3') in 0.058536 seconds
+  Import took 0.068641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000812 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_broda_Norma.png
+  artifactKey: Guid(d5a69b34d1ef21243bf7c8d884886df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_broda_Norma.png using Guid(d5a69b34d1ef21243bf7c8d884886df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18523a3568e2578fc4c39f8f99d04ca6') in 0.051375 seconds
+  Import took 0.060424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000879 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_jezor_BaseC.png
+  artifactKey: Guid(61478768de1a545479c51ba0b33ca4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_jezor_BaseC.png using Guid(61478768de1a545479c51ba0b33ca4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985f05facb954b297a5c7aecb5da70c6') in 0.049698 seconds
+  Import took 0.058754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_brwi_Occlus.png
+  artifactKey: Guid(04f20138db7262c4d9833a584f1329f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_brwi_Occlus.png using Guid(04f20138db7262c4d9833a584f1329f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c6cd7e98ff6b4e2300f3611143dbe8') in 0.027357 seconds
+  Import took 0.033261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_gumki_Occlu.png
+  artifactKey: Guid(2c9efd8955432e34aa93305e28328191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_gumki_Occlu.png using Guid(2c9efd8955432e34aa93305e28328191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4d20eea948329675de4d09e0006134') in 0.034472 seconds
+  Import took 0.040815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000658 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_czachy_Base.png
+  artifactKey: Guid(41f8381ce89fdbd4abd5de3c16a0e3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_czachy_Base.png using Guid(41f8381ce89fdbd4abd5de3c16a0e3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ab113bc179d17de762d2ab4641fc0f') in 0.054064 seconds
+  Import took 0.064636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000982 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_brwi_BaseCo.png
+  artifactKey: Guid(eec3dcd61cd90c54f8f7f017b34c381f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_brwi_BaseCo.png using Guid(eec3dcd61cd90c54f8f7f017b34c381f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675c4b27e00a0b3a87fed042aaafa9d5') in 0.047682 seconds
+  Import took 0.057565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000777 seconds.
+  path: Assets/prefab/textures/oni_body_lowpoly_oni_cialo_OcclusionRoughn.png
+  artifactKey: Guid(2ec3c6660097fcb49a03d4c94020f145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_body_lowpoly_oni_cialo_OcclusionRoughn.png using Guid(2ec3c6660097fcb49a03d4c94020f145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a906efd0392a0cb0c45f50b63487cb5') in 0.057521 seconds
+  Import took 0.065728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000727 seconds.
+  path: Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_gumki_BaseC.png
+  artifactKey: Guid(58ebd3f172d06d544951ede43a03edfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures/oni_uv_all_subtools_lowpoly_01_gumki_BaseC.png using Guid(58ebd3f172d06d544951ede43a03edfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5034cb9d0a9b82fe9d0d56c02809c946') in 0.049793 seconds
+  Import took 0.058543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.185617 seconds.
+  path: Assets/prefab/textures
+  artifactKey: Guid(6ff77d110513e0c4795a0ae1a77af4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/textures using Guid(6ff77d110513e0c4795a0ae1a77af4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7114c733c099eb78a74ed4013cdeb421') in 0.014029 seconds
+  Import took 0.017751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 648.006275 seconds.
+  path: Assets/prefab/Defeated.fbx
+  artifactKey: Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Defeated.fbx using Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9e6069c86f371ec6cc1fbeaa58a26f') in 0.215610 seconds
+  Import took 0.224554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.814958 seconds.
+  path: Assets/prefab/Defeated.fbx
+  artifactKey: Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Defeated.fbx using Guid(09a2765ff7a4d984d8426902792a07d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e782611e86c3e3a09c8b11f957b68f4') in 0.265278 seconds
+  Import took 0.273884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.987578 seconds.
+  path: Assets/prefab/Materials
+  artifactKey: Guid(2aedbd1f70f9554458b57867f8796c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Materials using Guid(2aedbd1f70f9554458b57867f8796c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9110dadc1bfdd29b150095da31348fe8') in 0.008362 seconds
+  Import took 0.010203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076445 seconds.
+  path: Assets/prefab/Materials/No Name.mat
+  artifactKey: Guid(a2830db2b3cadd843ac45c2b89371541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/Materials/No Name.mat using Guid(a2830db2b3cadd843ac45c2b89371541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82817d8167eacfbf0ab44bee1e9be6e8') in 0.018647 seconds
+  Import took 0.020881 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001069 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 3.148000 ms (FindLiveObjects: 0.279300 ms CreateObjectMapping: 0.120700 ms MarkObjects: 2.594800 ms  DeleteObjects: 0.127400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
